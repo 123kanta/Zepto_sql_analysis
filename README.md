@@ -93,10 +93,3 @@ The objective is to derive insights related to pricing, discounts, stock availab
 * Real-world dataset with business relevance
 * Strong use of SQL for insight generation
 * Clean and structured analytical approach
-
----
-
-If you want, I can also:
-
-* Add **Power BI dashboard section** (since you built one 👀)
-* Or make this **GitHub-optimized with badges + screenshots** to stand out more.
